@@ -4,7 +4,7 @@
     "description": "High performance Stratum poolserver in Node.js for merged mining",
     "keywords": [
         "stratum",
-	"merged",
+        "merged",
         "mining",
         "pool",
         "server",
@@ -34,7 +34,7 @@
         "url": "https://github.com/UNOMP/node-merged-pool.git"
     },
     "dependencies": {
-        "unomp-multi-hashing": "*",
+        "@energicryptocurrency/unomp-multi-hashing": "2.0.0",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
