@@ -34,7 +34,7 @@
         "url": "https://github.com/UNOMP/node-merged-pool.git"
     },
     "dependencies": {
-        "@energicryptocurrency/unomp-multi-hashing": "2.0.0",
+        "unomp-multi-hashing": "git+https://github.com/leandrorenato/unomp-multi-hashing.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
